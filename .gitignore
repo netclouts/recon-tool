@@ -1,0 +1,13 @@
+# Scan outputs — don't commit target data/results
+*_live.txt
+*_hosts.txt
+*_nuclei_all.txt
+*_nuclei_results/
+
+# Common target list names people use locally
+targets.txt
+domains.txt
+
+# OS/editor cruft
+.DS_Store
+*.swp

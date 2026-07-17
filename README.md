@@ -18,7 +18,7 @@ subfinder -d <domain> | httpx -sc -title -cl -location -web-server -tech-detect 
 ## Install
 
 ```bash
-git clone https://github.com/<your-username>/recon-tool.git
+git clone https://github.com/netclouts/recon-tool.git
 cd recon-tool
 chmod +x install.sh recon.sh
 ./install.sh

@@ -86,4 +86,4 @@ NUCLEI_SEVERITY=""   # e.g. "critical,high" to cut noise across all scans
 
 ## License
 
-@netcluts
+@netclouts

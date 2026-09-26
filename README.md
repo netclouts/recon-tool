@@ -1,3 +1,5 @@
+> **⚠️ Deprecated.** This project has been superseded by [recon-wolf](https://github.com/netclouts/recon-wolf), which adds DNS bruteforce/permutations, port scanning, JS secret/sourcemap mining, LFI and SQLi candidate scanning, GitHub secret scanning, vhost fuzzing, WAF fingerprinting, and per-target dual-template-root nuclei scanning. Use recon-wolf going forward.
+
 # recon.sh
 
 Subdomain discovery → live host probing → nuclei vulnerability scanning, in one pipeline.
